@@ -3,7 +3,7 @@
 This project involves the analysis of star clusters within the NGC 1300 galaxy, using photometric data and theoretical evolutionary tracks to classify clusters by age and symmetry. The analysis also includes overlaying young, middle-aged, and old-aged clusters over CO moment maps from ALMA to study their distribution within the galaxy.
 
 This project was conducted as part of Krittika Summer Projects (KSP) 5.0 by [Krittika: The Astronomy Club of IIT Bombay](https://krittikaiitb.github.io/).  
-You can read the full report [here (PDF)](https://krittikaiitb.github.io/KSPReports/2024/Pinpricks%20on%20the%20vortex%20-%20%20unveiling%20nearby%20galaxy%20evolution%20with%20star%20clusters/Star%20Cluster%20Analysis%20-%20Report.pdf).
+You can read the full report [here](https://krittikaiitb.github.io/KSPReports/2024/Pinpricks%20on%20the%20vortex%20-%20%20unveiling%20nearby%20galaxy%20evolution%20with%20star%20clusters/Star%20Cluster%20Analysis%20-%20Report.pdf).
 
 ## Table of Contents
 
